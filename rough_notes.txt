@@ -1,0 +1,7 @@
+umbrella_limit - negative values
+zip code can cover information for state, city, street
+capital-loss - negative values
+all dates columns can be removed
+collision_type, property_damage, police_report_available has illogical value '?'
+auto_model is good for auto_make
+unique - vehicle_claim, property_claim, injury_claim, total_claim_amount, incident_location, incident_date, capital-loss, capital-gains, insured_zip, policy_annual_premium, policy_bind_date, policy_number
